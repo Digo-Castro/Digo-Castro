@@ -29,7 +29,15 @@ Um hobby? Cozinhar! E garanto que não é só ovo frito :egg: e miojo :ramen: :j
 <code><img height="38" src="https://pics.freeicons.io/uploads/icons/png/9818154791551942292-512.png" alt="redux"/></code>
 <code><img height="38" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png" alt="jest"/></code>
 <code><img height="38" src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" alt="python"/></code>
-
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 ### Stats <br>
 <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Digo-Castro&show_icons=true&theme=great-gatsby" alt="Digo Castro's GitHub Stats" />
 
