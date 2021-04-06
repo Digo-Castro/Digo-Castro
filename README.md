@@ -17,6 +17,7 @@ Sou estudante Web Dev Fullstack, gostando cada vez mais do meu aprendizado em ba
 <br>
 Um hobby? Cozinhar! E garanto que não é só ovo frito :egg: e miojo :ramen: :joy:
 <br>
+O meu portifólio só está começando e tenho muita coisa para aprender, mas já já tem novidade por aqui.<br>
 
 #### Linguagens e ferramentas:
 
