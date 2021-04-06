@@ -10,7 +10,7 @@ Pode me encontrar também clicando nesses links aqui: :point_down:
   <img align="middle" alt="E-mail" width="38px" src="https://image.flaticon.com/icons/svg/95/95627.svg" />
 </a>
 </p>
-  <img align="right" alt="my octocat" width="500px" src="" />
+  <img align="right" alt="my octocat" width="500px" src="https://github.com/Digo-Castro/Digo-Castro/blob/main/digo-castro-octocat.png" />
 </p>
 <hr>
 Sou estudante Web Dev Fullstack, gostando cada vez mais do meu aprendizado em back-end. Sempre curioso por novas tecnologias e buscando aprimoramento nas coisas que já conheço.
