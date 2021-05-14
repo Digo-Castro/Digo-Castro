@@ -36,6 +36,6 @@ O meu portifólio só está começando e tenho muita coisa para aprender, mas j�
 ### Stats <br>
 <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Digo-Castro&show_icons=true&theme=great-gatsby" alt="Digo Castro's GitHub Stats" />
 
-<a href="https://github.com/thayscosta3">
+<a href="https://github.com/Digo-Castro">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digo-Castro&&show_icons=true&title_color=ff9600&icon_color=ff9600&text_color=ffe900&bg_color=000" />
 </a>
