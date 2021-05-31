@@ -30,6 +30,9 @@ O meu portifólio só está começando e tenho muita coisa para aprender, mas j�
 <code><img height="38" src="https://pics.freeicons.io/uploads/icons/png/9818154791551942292-512.png" alt="redux"/></code>
 <code><img height="38" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png" alt="jest"/></code>
 <code><img height="38" src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" alt="python"/></code>
+<code><img height="38" src="https://image.flaticon.com/icons/png/512/919/919825.png" alt="modejs"/></code>
+<code><img height="38" src="https://w1.pngwing.com/pngs/104/466/png-transparent-mongodb-logo-database-nosql-postgresql-mysql-green-text-line-thumbnail.png" alt="mongodb"/></code>
+<code><img height="38" src="https://image.flaticon.com/icons/png/512/919/919836.png" alt="mysql"/></code>
 <hr>
 <br>
 
