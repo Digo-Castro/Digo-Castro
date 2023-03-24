@@ -4,10 +4,10 @@ Meu nome é Rodrigo de Castro, ou Digo Castro, se preferir.
 Pode me encontrar também clicando nesses links aqui: :point_down:
 <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/dev-rodrigocastro/">
-  <img align="middle" alt="LinkedIN" width="38px" src="https://image.flaticon.com/icons/svg/1384/1384014.svg" />
+  LinkedIn
 </a>
 <a target="_blank" href="mailto:dygo.castro@gmail.com">
-  <img align="middle" alt="E-mail" width="38px" src="https://image.flaticon.com/icons/svg/95/95627.svg" />
+  E-mail
 </a>
 </p>
   <img align="right" alt="my octocat" width="500px" src="https://github.com/Digo-Castro/Digo-Castro/blob/main/digo-castro-octocat.png" />
@@ -18,21 +18,6 @@ Sou estudante Web Dev Fullstack, gostando cada vez mais do meu aprendizado em ba
 Um hobby? Cozinhar! E garanto que não é só ovo frito :egg: e miojo :ramen: :joy:
 <br>
 O meu portifólio só está começando e tenho muita coisa para aprender, mas já já tem novidade por aqui.<br>
-
-#### Linguagens e ferramentas:
-
-<code><img height="38" src="https://pics.freeicons.io/uploads/icons/png/14072054271548141949-512.png" alt="html5"/></code>
-<code><img height="38" src="https://pics.freeicons.io/uploads/icons/png/21337745421536211768-512.png" alt="css3"/></code>
-<code><img height="38" src="https://www.devexhub.com/wp-content/uploads/2019/12/javascript-icon-png-23.png" alt="Java Script"></code>
-<code><img height="38" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" alt="git"/></code>
-<code><img height="38" src="https://pics.freeicons.io/uploads/icons/png/3525127881551941184-512.png" alt="linux"/></code>
-<code><img height="38" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" alt="react"></code>
-<code><img height="38" src="https://pics.freeicons.io/uploads/icons/png/9818154791551942292-512.png" alt="redux"/></code>
-<code><img height="38" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png" alt="jest"/></code>
-<code><img height="38" src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" alt="python"/></code>
-<code><img height="38" src="https://image.flaticon.com/icons/png/512/919/919825.png" alt="modejs"/></code>
-<code><img height="38" src="https://w1.pngwing.com/pngs/104/466/png-transparent-mongodb-logo-database-nosql-postgresql-mysql-green-text-line-thumbnail.png" alt="mongodb"/></code>
-<code><img height="38" src="https://image.flaticon.com/icons/png/512/919/919836.png" alt="mysql"/></code>
 <hr>
 <br>
 
